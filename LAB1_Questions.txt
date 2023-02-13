@@ -1,0 +1,9 @@
+1. Wap in a python to store a name in variable and display.
+2. Wap in a python to store first name and last name in two diff variables and display it.
+3. Wap in Python to input two numbers from the user and perform all the arithmetic operations on them.
+4. Wap in Python to accept the radius of a circle from user and calculate its circumference and area.
+5. Wap in Python to accept a number from user and check if it is prime or not.
+6. Wap in python to accept p,r,t to calculate si value.
+7. Wap in python to print fibonacci series upto n elements.
+8. Wap in python to print factorial of a given number.
+9. Wap in python to print the sum of square of 1st n natural numbers.
